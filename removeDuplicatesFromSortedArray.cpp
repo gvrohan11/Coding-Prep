@@ -1,3 +1,5 @@
+// Leet Code
+// O(n)
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
