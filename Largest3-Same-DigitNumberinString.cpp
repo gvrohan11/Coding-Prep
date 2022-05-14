@@ -1,5 +1,6 @@
 // LeetCode
-// O(
+// (num.length() - 3) * (3) -> 3n-9 which is still O(n)
+// O(n)
 
 class Solution {
 public:
