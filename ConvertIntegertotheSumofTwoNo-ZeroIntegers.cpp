@@ -1,3 +1,6 @@
+// LeetCode
+// O(n * m): n is the parameter integer; m represents the number of digits in each number less than n;
+
 class Solution {
 public:
     vector<int> getNoZeroIntegers(int n) {
