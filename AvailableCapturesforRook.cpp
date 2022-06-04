@@ -1,5 +1,5 @@
 // LeetCode
-// O(rows * columns) - O(64) - O(1)
+// O(rows * columns) -> O(64) -> O(1)
 
 class Solution {
 public:
